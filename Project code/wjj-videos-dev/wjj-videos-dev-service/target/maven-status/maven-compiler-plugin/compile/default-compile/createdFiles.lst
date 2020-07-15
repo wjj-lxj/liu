@@ -1,0 +1,6 @@
+com\wjj\service\BgmService.class
+com\wjj\service\impl\BgmServiceImpl.class
+com\wjj\service\UserService.class
+com\wjj\service\impl\UserServiceImpl.class
+com\wjj\service\impl\VideoServiceImpl.class
+com\wjj\service\VideoService.class

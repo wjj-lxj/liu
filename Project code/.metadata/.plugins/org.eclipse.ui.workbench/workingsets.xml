@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1587869298961_9" label="wjj-video" name="wjj-video">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/wjj-videos-dev-common" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/wjj-video-admin" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/wjj-videos-dev-mini-api" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/wjj-video-admin-pojo" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/wjj-videos-dev-mapper" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/mybatis-generatorConfig" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/wjj-video-admin-common" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/wjj-videos-dev-pojo" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/wjj-videos-dev" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/wjj-video-admin-service" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/wjj-video-admin-mapper" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/wjj-video-admin-mng" type="4"/>
+<item elementID="=mybatisGeneratorSqlmapper" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/wjj-videos-dev-service" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1587862696414_0" label="Window Working Set" name="Aggregate for window 1587862696414"/>
+<mruList name="wjj-video"/>
+</workingSetManager>

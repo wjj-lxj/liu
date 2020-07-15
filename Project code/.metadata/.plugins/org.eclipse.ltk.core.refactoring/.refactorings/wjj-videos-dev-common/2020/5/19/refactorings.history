@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;FFMpegTest.java&apos; to &apos;wjj-videos-dev-common/src/main/java/com.wjj.utils&apos;&#x0D;&#x0A;- Original project: &apos;wjj-videos-dev-common&apos;&#x0D;&#x0A;- Destination element: &apos;wjj-videos-dev-common/src/main/java/com.wjj.utils&apos;&#x0D;&#x0A;- Original element: &apos;com.wjj.utils.FFMpegTest.java&apos;" description="Copy compilation unit" destination="/src\/main\/java&lt;com.wjj.utils" element1="/src\/main\/java&lt;com.wjj.utils{FFMpegTest.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1588763333367" units="1" version="1.0"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;UsersVo.java&apos; to &apos;wjj-videos-dev-pojo/src/main/java/com.wjj.pojo.vo&apos;&#x0D;&#x0A;- Original project: &apos;wjj-videos-dev-pojo&apos;&#x0D;&#x0A;- Destination element: &apos;wjj-videos-dev-pojo/src/main/java/com.wjj.pojo.vo&apos;&#x0D;&#x0A;- Original element: &apos;com.wjj.pojo.vo.UsersVo.java&apos;" description="Copy compilation unit" destination="/src\/main\/java&lt;com.wjj.pojo.vo" element1="/src\/main\/java&lt;com.wjj.pojo.vo{UsersVo.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1589206182172" units="1" version="1.0"/>
+</session>

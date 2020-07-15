@@ -1,0 +1,11 @@
+com\wjj\controller\RegistLoginController.class
+com\wjj\controller\interceptor\MiniInterceptor.class
+com\wjj\controller\BgmController.class
+com\wjj\controller\BasicController.class
+com\wjj\WarStartApplication.class
+com\wjj\WebMvcConfig.class
+com\wjj\Swagger2.class
+com\wjj\controller\HelloWorldController.class
+com\wjj\controller\UserController.class
+com\wjj\Application.class
+com\wjj\controller\VideoController.class

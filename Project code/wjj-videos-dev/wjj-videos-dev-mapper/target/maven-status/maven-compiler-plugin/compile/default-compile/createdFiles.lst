@@ -1,0 +1,10 @@
+com\wjj\mapper\CommentsMapper.class
+com\wjj\mapper\SearchRecordsMapper.class
+com\wjj\mapper\UsersReportMapper.class
+com\wjj\mapper\VideosMapperCustom.class
+com\wjj\mapper\UsersMapper.class
+com\wjj\mapper\BgmMapper.class
+com\wjj\mapper\VideosMapper.class
+com\wjj\mapper\CommentsMapperCustom.class
+com\wjj\mapper\UsersFansMapper.class
+com\wjj\mapper\UsersLikeVideosMapper.class
